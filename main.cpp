@@ -5,7 +5,7 @@
 #include <iostream>
 
 using namespace std;
-
+//Node için yapı oluşturuldu.Öncesini göstermek için node türünde prev  ve sonraki nodu göstermek için node türünde next işaretçisi oluturuldu.
 struct n {
 	int x;
 	n * next;
